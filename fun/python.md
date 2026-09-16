@@ -10,11 +10,11 @@
   * [learn Python in 10 minutes](https://www.stavros.io/tutorials/python/)
   * [Learn Python in Y minutes](https://learnxinyminutes.com/python/)
   * [Think Python](https://allendowney.github.io/ThinkPython/) by Allen B. Downey
-  * [101+ Free Python Books](https://blog.finxter.com/free-python-books/) - You don't have to pay money to read great Python books. Many are free!
   * [A Byte of Python](https://python.swaroopch.com/) 
   * [Awesome Python](https://awesome-python.com/)
   * [recipes](https://code.activestate.com/recipes/langs/python/) 
   * [Projects of Raspberry Pi Foundation](https://projects.raspberrypi.org/en/)
+  * [The Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/?couponCode=KEEPLEARNING)
   
 _(last update 16.09.2026)_
 
