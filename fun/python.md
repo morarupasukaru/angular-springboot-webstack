@@ -6,13 +6,15 @@
   [library](https://docs.python.org/3/library/),
   [language reference](https://docs.python.org/3/reference/),
   [faq](https://docs.python.org/3/faq/)
-* [Python for Beginners](https://www.python.org/about/gettingstarted/)
-  * [introduction books](https://wiki.python.org/moin/IntroductoryBooks)
-* [Python for Programmers](https://wiki.python.org/moin/BeginnersGuide/Programmers)
-* [PythonBooks.org](https://pythonbooks.org/) - A collection of Python books featuring popularity based ranking
-* [101+ Free Python Books](https://blog.finxter.com/free-python-books/) - You don't have to pay money to read great Python books. Many are free!
-* [recipes](https://code.activestate.com/recipes/langs/python/) 
-* [Projects of Raspberry Pi Foundation](https://projects.raspberrypi.org/en/)
-  _(last update 16.09.2026)_
+* other resources  
+  * [learn Python in 10 minutes](https://www.stavros.io/tutorials/python/)
+  * [PythonBooks.org](https://pythonbooks.org/) - A collection of Python books featuring popularity based ranking
+  * [101+ Free Python Books](https://blog.finxter.com/free-python-books/) - You don't have to pay money to read great Python books. Many are free!
+  * [A Byte of Python](https://python.swaroopch.com/) 
+  * [Awesome Python](https://awesome-python.com/)
+  * [recipes](https://code.activestate.com/recipes/langs/python/) 
+  * [Projects of Raspberry Pi Foundation](https://projects.raspberrypi.org/en/)
+  
+_(last update 16.09.2026)_
 
 [*Go to parent page*](..//README.md)
