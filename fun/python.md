@@ -1,6 +1,6 @@
 # Python
 
-* [python](https://www.python.org/)
+* [Python](https://www.python.org/) homepage
 * [online documentation](https://docs.python.org/3/):
   [tutorial](https://docs.python.org/3/tutorial/),
   [library](https://docs.python.org/3/library/),
