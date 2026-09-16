@@ -8,8 +8,6 @@
   [faq](https://docs.python.org/3/faq/)
 * other resources  
   * [learn Python in 10 minutes](https://www.stavros.io/tutorials/python/)
-  * [PythonBooks.org](https://pythonbooks.org/) - A collection of Python books featuring popularity based ranking
-  * [Automate the Boring Stuff with Python, 3rd Edition](https://nostarch.com/automate-boring-stuff-python-3rd-edition)
   * [Think Python](https://allendowney.github.io/ThinkPython/) by Allen B. Downey
   * [101+ Free Python Books](https://blog.finxter.com/free-python-books/) - You don't have to pay money to read great Python books. Many are free!
   * [A Byte of Python](https://python.swaroopch.com/) 
