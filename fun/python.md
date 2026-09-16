@@ -8,6 +8,7 @@
   [faq](https://docs.python.org/3/faq/)
 * other resources  
   * [learn Python in 10 minutes](https://www.stavros.io/tutorials/python/)
+  * [Learn Python in Y minutes](https://learnxinyminutes.com/python/)
   * [Think Python](https://allendowney.github.io/ThinkPython/) by Allen B. Downey
   * [101+ Free Python Books](https://blog.finxter.com/free-python-books/) - You don't have to pay money to read great Python books. Many are free!
   * [A Byte of Python](https://python.swaroopch.com/) 
