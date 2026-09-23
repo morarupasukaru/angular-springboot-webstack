@@ -43,7 +43,7 @@ Webstack based on [Angular](webstack/Angular.md) & [Spring Boot](webstack/Spring
 * [Zod](https://zod.dev/) for TypeScript-first schema validation with static type inference
 * [hygen](https://github.com/jondot/hygen) as code generator
   
-(See also [archived webstack topics](archive/webstack/README.md) and [[courses](webstack/courses.md)])
+(See also [archived webstack topics](archive/webstack/README.md))
 
 [*Go to top*](#my-devdocs)
 
