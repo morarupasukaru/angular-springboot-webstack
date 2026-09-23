@@ -1,9 +1,12 @@
 # Courses
 
 ## next
-* AI SDD?
+* python?
 
 ##  past courses
+  * overview of Microsoft Copilot integration in Microsoft 360°
+  * [AI Fluency: Framework and foundations](https://academy.claude.com/courses/ai-fluency-framework-foundations) 
+  * scala course
   * DDD (1 day course, 2026)
   * [Architecture](https://github.com/morarupasukaru/my-devdocs/blob/main/webstack/architecture.md) [done in 2025]
   * [Angular] [Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/) [done in 2019, watch in 2025]
